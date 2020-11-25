@@ -1,0 +1,9 @@
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\obj\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.csproj.CoreCompileInputs.cache
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\obj\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.AssemblyInfoInputs.cache
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\obj\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.AssemblyInfo.cs
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\bin\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.deps.json
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\bin\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.dll
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\bin\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.pdb
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\obj\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.dll
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\obj\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.pdb
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.Modelss\obj\Debug\netcoreapp2.1\WebRestfulApiPermisos.Modelss.csprojAssemblyReference.cache

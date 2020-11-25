@@ -1,0 +1,15 @@
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.AssemblyInfoInputs.cache
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.AssemblyInfo.cs
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.deps.json
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.runtimeconfig.json
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.runtimeconfig.dev.json
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.dll
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.pdb
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.Modelss.dll
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\bin\Debug\netcoreapp3.1\WebRestfulApiPermisos.Modelss.pdb
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.csprojAssemblyReference.cache
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.csproj.CopyComplete
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.dll
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.pdb
+C:\Users\tulio\source\repos\WebRestfulApiPermisos\WebRestfulApiPermisos.DTO\obj\Debug\netcoreapp3.1\WebRestfulApiPermisos.DTO.genruntimeconfig.cache
